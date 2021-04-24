@@ -9,7 +9,7 @@
 
 > Automated Binance trading bot with trailing buy/sell strategy
 
----
+---  
 
 [![ko](https://img.shields.io/badge/lang-한국어-brightgreen.svg)](https://github.com/chrisleekr/binance-trading-bot/blob/master/README.ko.md)
 
