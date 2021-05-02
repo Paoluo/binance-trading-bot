@@ -17,5 +17,6 @@
   },
   "cSpell.words": ["Bollinger", "MACD", "bbands", "chrisleekr", "mrkdwn", "tulind"],
   "eslint.format.enable": true,
-  "eslint.codeActionsOnSave.mode": "all"
+  "eslint.codeActionsOnSave.mode": "all",
+  "python.pythonPath": "C:\\software\\Python38\\python.exe"
 }
